@@ -1,6 +1,6 @@
 # 📧 Generador de Emails (Práctica)
 
-Este es un ejercicio básico del curso "Universidad Python". La idea era crear un script simple que tome datos "sucios" (con mayúsculas o espacios) y los transforme en un correo válido.
+Este es un ejercicio básico. La idea era crear un script simple que tome datos "sucios" (con mayúsculas o espacios) y los transforme en un correo válido.
 
 ## 🧠 Lo que aprendí con este código:
 * **`input()`**: Para pedirle datos al usuario.
@@ -11,4 +11,4 @@ Este es un ejercicio básico del curso "Universidad Python". La idea era crear u
 ## 💻 Cómo probarlo
 Solo corre el archivo en la terminal y pon tus datos:
 ```bash
-python generador_emails.py
+python correo.py
